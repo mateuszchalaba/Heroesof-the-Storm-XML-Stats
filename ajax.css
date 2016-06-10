@@ -1,0 +1,138 @@
+@font-face {font-family: "MetronicProCondensedW01-Lt";
+    src: url("http://db.onlinewebfonts.com/t/5cdf20d6f1127d6fc9111e057a86cfdb.eot");
+    src: url("http://db.onlinewebfonts.com/t/5cdf20d6f1127d6fc9111e057a86cfdb.eot?#iefix") format("embedded-opentype"),
+    url("http://db.onlinewebfonts.com/t/5cdf20d6f1127d6fc9111e057a86cfdb.woff2") format("woff2"),
+    url("http://db.onlinewebfonts.com/t/5cdf20d6f1127d6fc9111e057a86cfdb.woff") format("woff"),
+    url("http://db.onlinewebfonts.com/t/5cdf20d6f1127d6fc9111e057a86cfdb.ttf") format("truetype"),
+    url("http://db.onlinewebfonts.com/t/5cdf20d6f1127d6fc9111e057a86cfdb.svg#MetronicProCondensedW01-Lt") format("svg");
+}
+@font-face {font-family: "DecimaNovaW01-Light";
+    src: url("http://db.onlinewebfonts.com/t/66d111cdb06d9d378b8a502b5eb86790.eot");
+    src: url("http://db.onlinewebfonts.com/t/66d111cdb06d9d378b8a502b5eb86790.eot?#iefix") format("embedded-opentype"),
+    url("http://db.onlinewebfonts.com/t/66d111cdb06d9d378b8a502b5eb86790.woff2") format("woff2"),
+    url("http://db.onlinewebfonts.com/t/66d111cdb06d9d378b8a502b5eb86790.woff") format("woff"),
+    url("http://db.onlinewebfonts.com/t/66d111cdb06d9d378b8a502b5eb86790.ttf") format("truetype"),
+    url("http://db.onlinewebfonts.com/t/66d111cdb06d9d378b8a502b5eb86790.svg#DecimaNovaW01-Light") format("svg");
+}
+@font-face {font-family: "DecimaNovaW01-Bold";
+    src: url("http://db.onlinewebfonts.com/t/faad0ba276c65d3b9f879a91b0a779c5.eot");
+    src: url("http://db.onlinewebfonts.com/t/faad0ba276c65d3b9f879a91b0a779c5.eot?#iefix") format("embedded-opentype"),
+    url("http://db.onlinewebfonts.com/t/faad0ba276c65d3b9f879a91b0a779c5.woff2") format("woff2"),
+    url("http://db.onlinewebfonts.com/t/faad0ba276c65d3b9f879a91b0a779c5.woff") format("woff"),
+    url("http://db.onlinewebfonts.com/t/faad0ba276c65d3b9f879a91b0a779c5.ttf") format("truetype"),
+    url("http://db.onlinewebfonts.com/t/faad0ba276c65d3b9f879a91b0a779c5.svg#DecimaNovaW01-Bold") format("svg");
+}
+a { color:blue; font-weight:bold; text-decoration:none; }
+a:hover { text-decoration:underline; }
+/*tr{height:35px;}*/
+p { color:#000000; margin:0; }
+/*table{font-size:17px;}33ccff*/
+pre { color:#000000; }
+th {background-color:#33ccff;} 
+#info{text-decoration:none;}
+
+#mini{margin:0px;padding:2px;}  
+#fontt{font-family:DecimaNovaW01-Light; font-size:40px;}
+#opislink{}
+#opislink:hover
+{
+	color:#33ccff;
+	cursor:pointer;
+} 
+ 
+.numeric { text-align:right }
+.ascending { padding-left:4px; width:7px; height:7px; background: url('images/asc.gif') right no-repeat; }
+.descending { padding-left:4px; width:7px; height:7px; background: url('images/desc.gif') right no-repeat; }
+.nosort { padding-left:4px; width:7px; height:7px; }
+
+.modal {
+  opacity: 0;
+  visibility: hidden;
+  position: fixed;
+  top: 0;
+  right: 0;
+  bottom: 0;
+  left: 0;
+  text-align: left;
+  background: rgba(0,0,0, .9);
+  transition: opacity .25s ease;
+}
+
+.modal__bg {
+  position: absolute;
+  top: 0;
+  right: 0;
+  bottom: 0;
+  left: 0;
+  cursor: pointer;
+}
+
+.modal-state {
+  display: none;
+}
+
+.modal-state:checked + .modal {
+  opacity: 1;
+  visibility: visible;
+}
+
+.modal-state:checked + .modal .modal__inner {
+  top: 0;
+}
+
+.modal__inner {
+  transition: top .25s ease;
+  position: absolute;
+  top: -20%;
+  right: 0;
+  bottom: 0;
+  left: 0;
+  width: 50%;
+  margin: auto;
+  overflow: auto;
+  background: #fff;
+  border-radius: 5px;
+  padding: 1em 2em;
+  height: 50%;
+}
+
+.modal__close {
+  position: absolute;
+  right: 1em;
+  top: 1em;
+  width: 1.1em;
+  height: 1.1em;
+  cursor: pointer;
+}
+
+.modal__close:after,
+.modal__close:before {
+  content: '';
+  position: absolute;
+  width: 2px;
+  height: 1.5em;
+  background: #ccc;
+  display: block;
+  transform: rotate(45deg);
+  left: 50%;
+  margin: -3px 0 0 -1px;
+  top: 0;
+}
+
+.modal__close:hover:after,
+.modal__close:hover:before {
+  background: #aaa;
+}
+
+.modal__close:before {
+  transform: rotate(-45deg);
+}
+
+@media screen and (max-width: 768px) {
+	
+  .modal__inner {
+    width: 90%;
+    height: 90%;
+    box-sizing: border-box;
+  }
+}

@@ -1,0 +1,472 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<?xml-stylesheet type="text/xsl" href="stylexsl.xsl"?>
+    <postacie>
+        <postac>
+            <nazwa>Rexxar</nazwa>
+            <miniatura>miniatury/Rexxar.png</miniatura>
+            <typ>Wojownik</typ>
+            <uniwersum>Warcraft</uniwersum>
+            <zwyciestwa>54.1</zwyciestwa>
+            <popularnosc>3.8</popularnosc>
+			<opis>Tam, gdzie nie dotarla cywilizacja, obowiazuje tylko jedno prawo: prawo dzungli. Aby przezyc, trzeba odnalezc swoje stado, w którym wszyscy beda pomagac sobie nawzajem. Rexxar przemierza bezdroza Nexusa w poszukiwaniu nowych wyzwan u boku swych wiernych towarzyszy - niedzwiedzicy Miszy oraz jastrzebia Ducha. Sila niedzwiedzia, szybkosc jastrzebia i przebieglosc lowcy sprawiaja, ze ta nierozlaczna trójka stanowi zgrany i smiertelnie niebezpieczny dla wrogów zespól.</opis>
+        </postac>
+        <postac>
+            <nazwa>Kaelthas</nazwa>
+            <miniatura>miniatury/Kaelthas.png</miniatura>
+            <typ>Zabojca</typ>
+            <uniwersum>Warcraft</uniwersum>
+            <zwyciestwa>54.7</zwyciestwa>
+            <popularnosc>97.3</popularnosc>
+			<opis>Upadek Quel Thalas na zawsze odmienil krwawe elfy, a w szczególnosci ksiecia Kael thasa. Wiedziony desperacka checia ocalenia swego ludu od magicznego uzaleznienia, Kael thas zjednoczyl sily z Plonacym Legionem i wlada obecnie w Twierdzy Burz.</opis>
+        </postac>
+        <postac>
+            <nazwa>Anubarak</nazwa>
+            <miniatura>miniatury/Anubarak.png</miniatura>
+            <typ>Wojownik</typ>
+            <uniwersum>Warcraft</uniwersum>
+            <zwyciestwa>54</zwyciestwa>
+            <popularnosc>19.2</popularnosc>
+			<opis>Anub arak byl niegdys nerubianskim królem, który osmielil sie przeciwstawic inwazji Króla Licza. Walczyl odwaznie, lecz w koncu ulegl niepowstrzymanej Pladze. Zdradziecki Król zostal po smierci ozywiony i obecnie sluzy jako gigantyczne narzedzie zniszczenia.</opis>
+        </postac>
+        <postac>
+            <nazwa>Nazeebo</nazwa>
+            <miniatura>miniatury/Nazeebo.png</miniatura>
+            <typ>Specjalista</typ>
+            <uniwersum>Diablo</uniwersum>
+            <zwyciestwa>53.8</zwyciestwa>
+            <popularnosc>19.6</popularnosc>
+			<opis>Odziany w pióropusz i kosciane amulety, intonujacy kabalistyczne zaklecia szaman-heretyk Nazebo z plemienia Umbaru wzywa na pomoc duchy z Bezksztaltnej Krainy. Niewielu cudzoziemców moze sie pochwalic spotkaniem z szamanem. Wiekszosc po prostu tego nie przezywa.</opis>
+        </postac>
+        <postac>
+            <nazwa>Xul</nazwa>
+            <miniatura>miniatury/Xul.png</miniatura>
+            <typ>Specjalista</typ>
+            <uniwersum>Diablo</uniwersum>
+            <zwyciestwa>53.4</zwyciestwa>
+            <popularnosc>29.7</popularnosc>
+			<opis>Z samego serca nieprzebytych dzungli na wschodzie przybywa czlowiek spowity tajemnica niczym plaszczem. Xul - bo takie wlasnie nosi imie - wlada potezna magia smierci jako jeden z zagadkowych kaplanów Rathmy i walczy, by zachowac krucha równowage miedzy silami ladu i chaosu. Xul moze pozbawiac przeciwników sil lub uniemozliwiac im ucieczke, a takze z zabójcza precyzja wlada widmowa kosa. Tym, których spotka smierc z reki Nekromanty, nie bedzie dane spoczywac w spokoju - zostana bowiem wskrzeszeni jako szkieletowe slugi gotowe wykonac kazdy rozkaz swego pana.</opis>
+        </postac>
+        <postac>
+            <nazwa>Diablo</nazwa>
+            <miniatura>miniatury/diablo.png</miniatura>
+            <typ>Wojownik</typ>
+            <uniwersum>Diablo</uniwersum>
+            <zwyciestwa>52.4</zwyciestwa>
+            <popularnosc>25.1</popularnosc>
+			<opis>Znany w prastarym jezyku jako Al Diabolos, Najwyzsze Zlo Grozy, demoniczny wladca Diablo pragnie zdobyc swiat Sanktuarium dla Plonacych Piekiel. Jako Wladca Grozy Diablo sieje ziarna strachu w sercach smiertelników - tylko odczuwane przez nich przerazenie jest w stanie nasycic jego glód. Jego ofiary sa niezliczone, jego plany - nieodgadnione, zas jego plec... niestala.</opis>
+        </postac>
+        <postac>
+            <nazwa>Zagara</nazwa>
+            <miniatura>miniatury/Zagara.png</miniatura>
+            <typ>Specjalista</typ>
+            <uniwersum>Starcraft</uniwersum>
+            <zwyciestwa>51.8</zwyciestwa>
+            <popularnosc>39.5</popularnosc>
+			<opis>Kerrigan jest królowa zergów, ale to Zagara jest matka szczepu. Przebiegla i nieprzejednana samica dowodzi swymi krwiozerczymi slugami na polu bitwy. Jesli napotkasz jej szczep, strzez sie: ci, którzy zadzieraja z jej dziecmi musza stawic czola samej mamusi.</opis>
+        </postac>
+        <postac>
+            <nazwa>Raynor</nazwa>
+            <miniatura>miniatury/Raynor.png</miniatura>
+            <typ>Zabojca</typ>
+            <uniwersum>Starcraft</uniwersum>
+            <zwyciestwa>51.8</zwyciestwa>
+            <popularnosc>30.9</popularnosc>
+			<opis>James Raynor - byly szeryf w sluzbie Konfederacji - wyszedl obronna reka ze wszystkich niespodzianek, jakie zgotowal mu wszechswiat, bogatszy o bagaz doswiadczen, kilka blizn i slabosc do whisky marki Scotty Bolger. Dzis walczy o sprawiedliwosc w ogarnietym znieczulica wszechswiecie. Jest ostatnim bastionem nadziei w obliczu skorumpowanego rzadu, tajemniczych protosów i niszczycielskich, zarlocznych zergów... Nic dziwnego, ze facet zaglada do kieliszka.</opis>
+        </postac>
+        <postac>
+            <nazwa>Jasnoskrzydla</nazwa>
+            <miniatura>miniatury/Brightwing.png</miniatura>
+            <typ>Pomocnik</typ>
+            <uniwersum>Warcraft</uniwersum>
+            <zwyciestwa>51.6</zwyciestwa>
+            <popularnosc>24</popularnosc>
+			<opis>Basniowe smoki z Jesionowej Kniei slyna z beztroskiego usposobienia i potrafia znikac przeciwnikom z oczu, kiedy tylko zechca. Przebiegla Jasnoskrzydla nie jest tutaj zadnym wyjatkiem. Czesto pojawia sie znikad, zeby ratowac swych sprzymierzenców - albo draznic wrogów.</opis>
+        </postac>
+        <postac>
+            <nazwa>Rehgar</nazwa>
+            <miniatura>miniatury/Rehgar.png</miniatura>
+            <typ>Pomocnik</typ>
+            <uniwersum>Warcraft</uniwersum>
+            <zwyciestwa>52.5</zwyciestwa>
+            <popularnosc>64.3</popularnosc>
+			<opis>Rehgar Furia Ziemi widzial w zyciu niejedna walke - zarówno jako gladiator, jak i przywódca wlasnej druzyny wojowników. Pozostawiwszy za soba przeszlosc, pelni obecnie sluzbe jako prosty szaman Kregu Ziemi i usiluje odkupic swe dawne postepki, przywracajac zycie najbardziej jalowym zakatkom Azeroth.</opis>
+        </postac>
+        <postac>
+            <nazwa>Czen</nazwa>
+            <miniatura>miniatury/Chen.png</miniatura>
+            <typ>Wojownik</typ>
+            <uniwersum>Warcraft</uniwersum>
+            <zwyciestwa>53.4</zwyciestwa>
+            <popularnosc>7.6</popularnosc>
+			<opis>Byc gorzelnikiem to znaczy byc odkrywca, milosnikiem przyrody oraz - gdy wymagaja tego okolicznosci - poteznym wojownikiem. Czen Gromowar spedzil cale lata na wedrówkach po Azeroth w poszukiwaniu rzadkich skladników, poruszajacych opowiesci i - sie rozumie - zacnych trunków.</opis>
+        </postac>
+        <postac>
+            <nazwa>Zaginieni Wikingowie</nazwa>
+            <miniatura>miniatury/TheLostVikings.png</miniatura>
+            <typ>Specjalista</typ>
+            <uniwersum>Blizzard Origins</uniwersum>
+            <zwyciestwa>55</zwyciestwa>
+            <popularnosc>5</popularnosc>
+			<opis>Zaginieni Wikingowie powrócili! Pokonawszy Imperatora Tomatora, przez krótki czas rozwazali przejscie na zasluzona emeryture, lecz okazalo sie, ze w calej krainie mogloby wkrótce zabraknac dla nich niedzwiedzi polarnych do upolowania. Taki obrót zdarzen sprawil, ze perspektywa wycieczki do Nexusa wydala im sie niezwykle necaca.</opis>
+        </postac>
+        <postac>
+            <nazwa>Johanna</nazwa>
+            <miniatura>miniatury/Johanna.png</miniatura>
+            <typ>Wojownik</typ>
+            <uniwersum>Diablo</uniwersum>
+            <zwyciestwa>51.5</zwyciestwa>
+            <popularnosc>46</popularnosc>
+			<opis>W sluzbie krucjaty bylo wiele kobiet o imieniu Johanna, a kazda z nich oddala zycie w walce o oczyszczenie swej wiary. Johanna pozostaje wierna ich dziedzictwu, przemierzajac królestwo Khanduras w poszukiwaniu upadlej gwiazdy.</opis>
+        </postac>
+        <postac>
+            <nazwa>Smuga</nazwa>
+            <miniatura>miniatury/Tracer.png</miniatura>
+            <typ>Zabojca</typ>
+            <uniwersum>Overwatch</uniwersum>
+            <zwyciestwa>48.9</zwyciestwa>
+            <popularnosc>59.7</popularnosc>
+			<opis>Lena Oxton (kryptonim: "Smuga") jest poszukiwaczka przygód i bojowniczka o wzniosle idealy. Korzystajac ze zdolnosci do poruszania sie w czasie, walczy w slusznej sprawie wszedzie, gdzie tylko sie pojawi - nawet w Nexusie. Zaginajaca czasoprzestrzen wedle wlasnej woli bohaterka jest szybkim i zwinnym czlonkiem druzyny oraz zabójczo niebezpiecznym przeciwnikiem. Nic sie nie bójcie, slonka, kawaleria przybyla!</opis>
+        </postac>
+        <postac>
+            <nazwa>Lili</nazwa>
+            <miniatura>miniatury/Lili.png</miniatura>
+            <typ>Pomocnik</typ>
+            <uniwersum>Warcraft</uniwersum>
+            <zwyciestwa>51.4</zwyciestwa>
+            <popularnosc>37</popularnosc>
+			<opis>Li Li Gromowar urodzila sie na Szen-zin Su - Wedrujacej Wyspie. Prowadzila stosunkowo spokojne zycie do czasu, az zaczela czytac pamietniki swego stryja Czena. Wkrótce ogarnela ja przemozna chec przezywania przygód, odkrywania swiata i grania na nosie poszukiwaczom przygód, którzy zabladzili w okolice Doliny Czterech Wiatrów.</opis>
+        </postac>
+        <postac>
+            <nazwa>Artanis</nazwa>
+            <miniatura>miniatury/Artanis.png</miniatura>
+            <typ>Wojownik</typ>
+            <uniwersum>Starcraft</uniwersum>
+            <zwyciestwa>51.4</zwyciestwa>
+            <popularnosc>20.9</popularnosc>
+			<opis>Hierarcha Artanis to nieugiety wojownik, który dazy do zjednoczenia swego rozproszonego i naznaczonego doswiadczeniem wojny ludu. Artanis jest powszechnie szanowanym templariuszem, doswiadczonym w prowadzeniu dzialan wojennych, dzieki czemu laczy nieprzecietne zdolnosci bojowe z przenikliwoscia wytrawnego stratega. Moze z równa latwoscia atakowac, wykonujac blyskawiczne ciecia blizniaczymi ostrzami psionicznymi, wziac na siebie glówny impet ataków wroga dzieki poteznym oslonom lub wezwac pomoc z orbity, rozkazujac swemu okretowi flagowemu - Wlóczni Aduna - by ten obrócil nieprzyjaciól w pyl. Nic nie stanie mu na drodze w wypelnieniu misji majacej na celu przywrócenie protosów do dawnej swietnosci.</opis>
+        </postac>
+        <postac>
+            <nazwa>Tyrande</nazwa>
+            <miniatura>miniatury/Tyrande.png</miniatura>
+            <typ>Pomocnik</typ>
+            <uniwersum>Warcraft</uniwersum>
+            <zwyciestwa>51.3</zwyciestwa>
+            <popularnosc>19.2</popularnosc>
+			<opis>Tyrande Szept Wiatru wlewa strach w serca wszystkich, którzy zagrazaja Kaldorei. Jako najwyzsza ranga Strazniczka i Arcykaplanka Eluny, jest nie tylko najgrozniejsza wojowniczka wsród nocnych elfów, lecz takze najprzebieglejsza z ich przywódczyn.</opis>
+        </postac>
+        <postac>
+            <nazwa>Thrall</nazwa>
+            <miniatura>miniatury/Thrall.png</miniatura>
+            <typ>Zabojca</typ>
+            <uniwersum>Warcraft</uniwersum>
+            <zwyciestwa>51</zwyciestwa>
+            <popularnosc>44.4</popularnosc>
+			<opis>W dziecinstwie Thrall byl niewolnikiem okrutnego Adelasa Czarnomora. Po wyrwaniu sie z niewoli i oswobodzeniu orków, Thrall poprowadzil ich ku nowej ojczyznie i staral sie odtworzyc ich dawne tradycje. Obecnie jest wodzem Hordy - i bedzie nim juz zawsze.</opis>
+        </postac>
+        <postac>
+            <nazwa>Mecik</nazwa>
+            <miniatura>miniatury/Murky.png</miniatura>
+            <typ>Zabojca</typ>
+            <uniwersum>Warcraft</uniwersum>
+            <zwyciestwa>50.9</zwyciestwa>
+            <popularnosc>4.3</popularnosc>
+			<opis>Mrgglglbrlg rmrmgllg mrggggm. Mrrglglgy, mgllglgl mgggrrmgll MRGGGLGLLM! Mrrggllgggllggll mrrglrlg mrrg mrrg mrrrg.</opis>
+        </postac>
+        <postac>
+            <nazwa>Sierzant Petarda</nazwa>
+            <miniatura>miniatury/SgtHammer.png</miniatura>
+            <typ>Specjalista</typ>
+            <uniwersum>Starcraft</uniwersum>
+            <zwyciestwa>50.6</zwyciestwa>
+            <popularnosc>9</popularnosc>
+			<opis>Sierzant Bama "Petarda" Kowalska uczestniczyla w najbardziej krwawych misjach w sektorze Koprulu. Ryk dziala burzacego jej czolgu oblezniczego potrafi wystraszyc nawet najtwardszych wojowników... takze z jej wlasnej druzyny.</opis>
+        </postac>
+        <postac>
+            <nazwa>Falstad</nazwa>
+            <miniatura>miniatury/Falstad.png</miniatura>
+            <typ>Zabojca</typ>
+            <uniwersum>Warcraft</uniwersum>
+            <zwyciestwa>50.5</zwyciestwa>
+            <popularnosc>47.6</popularnosc>
+			<opis>Falstad to tan klanu Dzikiego Mlota i zalozyciel Rady Trzech Mlotów, która sprawuje wladze w Zelaznej Kuzni. Wbrew krazacym pogloskom Falstad nigdy nie byl martwy, a kazdy, kto tak twierdzi, jest wierutnym klamca.</opis>
+        </postac>
+        <postac>
+            <nazwa>Nova</nazwa>
+            <miniatura>miniatury/Nova.png</miniatura>
+            <typ>Zabojca</typ>
+            <uniwersum>Starcraft</uniwersum>
+            <zwyciestwa>50.5</zwyciestwa>
+            <popularnosc>18</popularnosc>
+			<opis>November "Nova" Terra to duch z Dominium Terran. Zalicza sie do najpotezniejszych psionicznych zolnierzy w historii. Nova jest skupiona, stanowcza i niezwykle grozna. Nawet Jim Raynor nie chcialby znalezc sie na jej celowniku.</opis>
+        </postac>
+        <postac>
+            <nazwa>ETC</nazwa>
+            <miniatura>miniatury/ETC.png</miniatura>
+            <typ>Wojownik</typ>
+            <uniwersum>Warcraft</uniwersum>
+            <zwyciestwa>50.2</zwyciestwa>
+            <popularnosc>62.3</popularnosc>
+			<opis>Oto Potega Hordy, wcielenie mocnych brzmien i rytmów oraz dracych na strzepy palce riffów! To Elitarny Taurenski Czempion - najwiekszy wirtuoz topora w Azeroth! Charakterystyczny dzwiek rocka na polu bitwy to znak, ze zaraz komus buty spadna.</opis>
+        </postac>
+        <postac>
+            <nazwa>Lunara</nazwa>
+            <miniatura>miniatury/Lunara.png</miniatura>
+            <typ>Zabojca</typ>
+            <uniwersum>Warcraft</uniwersum>
+            <zwyciestwa>50</zwyciestwa>
+            <popularnosc>18.6</popularnosc>
+			<opis>Driady czuwaja nad cienistymi lasami Kalimdoru. Te chybkie, sprytne i rozmilowane w igraszkach istoty kochaja i chronia swój dom, otaczajac go troskliwa opieka. Siostry Lunary moga byc delikatnymi kwiatami rozkwitajacymi w glebi kniei, lecz Pierwsza Córa pólboga Cenariusa ucielesnia ostre kolce, które strzega ich ulotnego piekna. Lunara zwinnie atakuje przeciwników z oddali i wyniszcza ich toksynami, by blyskawicznie zniknac wsród listowia, zanim ktokolwiek zdola ja chocby drasnac. Niech sie strzega ci, którym przyjdzie zmierzyc sie z nia w Nexusie, bo juz wkrótce moga dolaczyc do gatunków zagrozonych wymarciem!</opis>
+        </postac>
+        <postac>
+            <nazwa>Valla</nazwa>
+            <miniatura>miniatury/Valla.png</miniatura>
+            <typ>Zabojca</typ>
+            <uniwersum>Diablo</uniwersum>
+            <zwyciestwa>50</zwyciestwa>
+            <popularnosc>38.3</popularnosc>
+			<opis>Valla na wlasne oczy widziala zajadlosc piekielnych pomiotów, gdy demony spustoszyly jej wioske i zostawily ja na smierc. Teraz, gdy nie ma juz nikogo, liczy sie dla niej tylko jeden cel: pozbycie sie demonicznego plugastwa, które deprawuje krainy Sanktuarium. Valla lubi dlugie spacery po plazy, szczeniaczki oraz mechanizmy spustowe kusz.</opis>
+        </postac>
+        <postac>
+            <nazwa>Sylwana</nazwa>
+            <miniatura>miniatury/Sylvanas.png</miniatura>
+            <typ>Specjalista</typ>
+            <uniwersum>Warcraft</uniwersum>
+            <zwyciestwa>49.8</zwyciestwa>
+            <popularnosc>31.7</popularnosc>
+			<opis>Kiedy Sylwana Biezywiatr przewodzila tropicielom z Quel thalas, poprzysiegla sobie, ze bedzie za wszelka cene bronic swej ojczyzny i jej mieszkanców przed czyhajacymi na nich niebezpieczenstwami. Zyskala sobie slawe utalentowanego dowódcy wojskowego i niezrównanej luczniczki. Jednak nawet ona nie byla w stanie stawic czola potedze Plagi. Rycerz Smierci Arthas nie pozwolil jej spoczywac w pokoju i przemienil Sylwane w nieumarla banshee. Kiedy Mroczna Pani odzyskala w koncu wolnosc, siegnela po wladze nad Porzuconymi jako ich Upiorna Królowa. Sylwana nawiedza teraz pola bitew w Nexusie, zsylajac na przeciwników deszcz smiercionosnych strzal, i wykorzystuje swe zlowrogie moce, aby nekac wrogów.</opis>
+        </postac>
+        <postac>
+            <nazwa>Azmodan</nazwa>
+            <miniatura>miniatury/Azmodan.png</miniatura>
+            <typ>Specjalista</typ>
+            <uniwersum>Diablo</uniwersum>
+            <zwyciestwa>49.6</zwyciestwa>
+            <popularnosc>9</popularnosc>
+			<opis>Wladca Grzechu rzadzi gesto zaludnionym kregiem piekiel, gdzie doswiadczyc mozna zarówno najwiekszych przyjemnosci i rozpaczy, jak i niewyobrazalnej deprawacji. Ambicje Azmodana sa jednak wciaz niezaspokojone i teraz pozada on wladzy nad swiatem Sanktuarium.</opis>
+        </postac>
+        <postac>
+            <nazwa>Porucznik Morales</nazwa>
+            <miniatura>miniatury/LtMorales.png</miniatura>
+            <typ>Pomocnik</typ>
+            <uniwersum>Starcraft</uniwersum>
+            <zwyciestwa>49.6</zwyciestwa>
+            <popularnosc>64.7</popularnosc>
+			<opis>Porucznik Morales dolaczyla do Dyrektoriatu Zjednoczonej Ziemi (DZZ), aby zmienic swiat na lepsze i chronic swoja rodzine. W czasie dlugiej i chwalebnej sluzby odznaczyla sie jako niezrównana sanitariuszka, utrzymujaca swoich pacjentów przy zyciu i w walce dlugo po tym, jak wszyscy inni wyzioneli ducha. Morales jest weteranka Wojny Szczepów i nie powstrzymalo jej nawet zniszczenie floty ekspedycyjnej DZZ. W Nexusie zajmuje sie tym, w czym jest najlepsza - leczeniem czlonków swojej druzyny, wspieraniem sojuszników i zmienianiem swiata na lepsze.</opis>
+        </postac>
+        <postac>
+            <nazwa>Rzeznik</nazwa>
+            <typ>Zabojca</typ>
+            <miniatura>miniatury/TheButcher.png</miniatura>
+            <uniwersum>Diablo</uniwersum>
+            <zwyciestwa>49.4</zwyciestwa>
+            <popularnosc>9</popularnosc>
+			<opis>Groteskowy stwór przekracza bramy Nexusa. Stapa ciezko, a w ogromnych lapskach dzierzy pokryty zaskorupiala krwia, rzeznicki hak. Jego nieustanny, nienasycony glód popycha go do wycinania i pozerania swiezego miesa zabitych wrogów. Nawet ci, którzy walcza u jego boku, wzdragaja sie z obrzydzenia, gdy zbliza sie do nich. To wcielona przemoc. To brutalnosc rodem z koszmarów. To... Rzeznik.</opis>
+        </postac>
+        <postac>
+            <nazwa>Tychus</nazwa>
+            <miniatura>miniatury/Tychus.png</miniatura>
+            <typ>Zabojca</typ>
+            <uniwersum>Starcraft</uniwersum>
+            <zwyciestwa>49.3</zwyciestwa>
+            <popularnosc>12.7</popularnosc>
+			<opis>Byly zolnierz, niegdysiejszy zlodziej, skazany przestepca... Tychus Findlay i Jim Raynor maja za soba burzliwa przeszlosc, wypelniona smialymi wyczynami oraz pokazami walecznosci i odwagi, lecz ich dokonania nie zawsze zaslugiwaly na pochwale. Nikt nie wie, czyja strone tak naprawde trzyma Tychus, ale jedno jest pewne: to niezwykle skuteczny wojownik, choc subtelnosc na polu bitwy nie nalezy do jego mocnych stron. Tychus po prostu lubi rozmach - w pelnym tego slowa znaczeniu.</opis>
+        </postac>
+        <postac>
+            <nazwa>Sonia</nazwa>
+            <miniatura>miniatury/Sonya.png</miniatura>
+            <typ>Wojownik</typ>
+            <uniwersum>Diablo</uniwersum>
+            <zwyciestwa>49.2</zwyciestwa>
+            <popularnosc>30.1</popularnosc>
+			<opis>Barbarzyncy to potezni wojownicy pochodzacy ze skutych lodem Ponurych Ziem na pólnocy. Kiedy ojczyzna Soni zostala zniszczona, a jej plemie zgladzone, rozpoczela wedrówke po Sanktuarium, szukajac nowych bitew i szansy wywalczenia lepszej przyszlosci dla swego ludu.</opis>
+        </postac>
+        <postac>
+            <nazwa>Szarogrzywy</nazwa>
+            <miniatura>miniatury/Greymane.png</miniatura>
+            <typ>Zabojca</typ>
+            <uniwersum>Warcraft</uniwersum>
+            <zwyciestwa>49.1</zwyciestwa>
+            <popularnosc>19</popularnosc>
+			<opis>Król Genn Szarogrzywy podzielil los wiekszosci obywateli Gilneasu i padl ofiara klatwy likantropii. Choc czuje, ze to na jego barkach spoczywa odpowiedzialnosc za nieszczescie, które spotkalo Gilneas, wladca nauczyl sie czerpac sile z dzikiej bestii, jaka kryje sie w jego ciele, nie zatraciwszy wlasnego czlowieczenstwa. Wybierajac swoje cele na polu bitwy, Szarogrzywy wykorzystuje przebieglosc strzelca wyborowego oraz zdaje sie na zwierzecy instynkt, dzieki któremu atakuje wrogów z niezwykla szybkoscia i precyzja. Dzis Genn przewodzi swojej watasze nie tylko jako król, ale i samiec alfa.</opis>
+        </postac>
+        <postac>
+            <nazwa>Kerrigan</nazwa>
+            <miniatura>miniatury/Kerrigan.png</miniatura>
+            <typ>Zabojca</typ>
+            <uniwersum>Starcraft</uniwersum>
+            <zwyciestwa>49.1</zwyciestwa>
+            <popularnosc>6</popularnosc>
+			<opis>W przeszlosci byla terranskim duchem o niespotykanych zdolnosciach psionicznych. Sara Kerrigan zostala zdradzona przez swoich sojuszników i przepoczwarzona w nieposkromiona Królowa Ostrzy. Dzis, uwolniona spod wplywu mrocznego boga Amona, Kerrigan staje w obliczu zagrozenia, które moze zniszczyc cala galaktyke.</opis>
+        </postac>
+        <postac>
+            <nazwa>Ilidan</nazwa>
+            <miniatura>miniatury/Illidan.png</miniatura>
+            <typ>Zabojca</typ>
+            <uniwersum>Warcraft</uniwersum>
+            <zwyciestwa>49.1</zwyciestwa>
+            <popularnosc>52.2</popularnosc>
+			<opis>Illidan Burzogniewny, pierwszy lowca demonów, zdradzil swój lud i stworzyl nowa Studnie Wiecznosci po inwazji demonów na Azeroth. Po dziesieciu tysiacleciach spedzonych w ciemnym lochu zostal uwolniony przez Tyrande Szept Wiatru - wbrew zyczeniom wlasnego brata, Malfuriona Burzogniewnego. Teraz Illidan wlada niepodzielnie Rubieza i dziesiatkuje tych, którzy zapuszczaja sie w glab jego wlosci.</opis>
+        </postac>
+        <postac>
+            <nazwa>Arthas</nazwa>
+            <miniatura>miniatury/Arthas.png</miniatura>
+            <typ>Wojownik</typ>
+            <uniwersum>Warcraft</uniwersum>
+            <zwyciestwa>49</zwyciestwa>
+            <popularnosc>12.9</popularnosc>
+			<opis>Niegdys prawowity spadkobierca korony Lordaeronu i protegowany legendarnego paladyna - Uthera Swiatlodzierzcy - ksiaze Arthas przeszedl na strone ciemnosci. Podjal desperacka próbe ocalenia swego narodu, na skutek czego zostal zdeprawowany przez przeklety miecz o nazwie Ostrze Mrozu. Dzis sluzy Królowi Liczowi jako rycerz smierci i pozostanie w jego mocy juz na zawsze.</opis>
+        </postac>
+        <postac>
+            <nazwa>Kharazim</nazwa>
+            <miniatura>miniatury/Kharazim.png</miniatura>
+            <typ>Pomocnik</typ>
+            <uniwersum>Diablo</uniwersum>
+            <zwyciestwa>48.6</zwyciestwa>
+            <popularnosc>16.6</popularnosc>
+			<opis>Dla mnichów z Iwogrodu bogowie sa wszechobecni, a glosicielami ich woli sa patriarchowie. To za ich nakazem Kharazim wyruszyl na poszukiwania niebianskiego ognia, który spadl na miasteczko Nowe Tristram.</opis>
+        </postac>
+        <postac>
+            <nazwa>Jaina</nazwa>
+            <miniatura>miniatury/Jaina.png</miniatura>
+            <typ>Zabojca</typ>
+            <uniwersum>Warcraft</uniwersum>
+            <zwyciestwa>48.4</zwyciestwa>
+            <popularnosc>40.5</popularnosc>
+			<opis>Jaina Proudmoore to niezwykle uzdolniona czarodziejka, która zglebiala arkana sztuki tajemnej pod kierunkiem legendarnego arcymaga Antonidasa. Ta mloda kobieta wielokrotnie wykazala sie blyskotliwa inteligencja, niespotykana odwaga i wielka madroscia - to ona poprowadzila exodus ocalalych z Plagi mieszkanców Lordaeronu do Kalimdoru. Ale nie zakladaj od razu, ze dobre serce stanowi jej slaby punkt. Ci, którzy w konfrontacji z Jaina uznali jej laskawosc za synonim braku ducha walki, szybko przekonali sie, do czego prowadzi sprowokowanie czarodziejki.</opis>
+        </postac>
+        <postac>
+            <nazwa>Li-Ming</nazwa>
+            <miniatura>miniatury/LiMing.png</miniatura>
+            <typ>Zabojca</typ>
+            <uniwersum>Diablo</uniwersum>
+            <zwyciestwa>48.3</zwyciestwa>
+            <popularnosc>95.5</popularnosc>
+			<opis>Prawda powszechnie znana posród mieszkanców Sanktuarium jest fakt, iz czarownicy zawsze i wszedzie rozpetaja w koncu magiczny chaos. Li-Ming rozumie co prawda obawy zwyklych smiertelników, ale nie widzi nic zlego w tym, ze wszedzie, gdzie sie pojawia, slady jej przejscia znaczy zniszczenie. Z entuzjazmem zasypuje wrogów z oddali deszczem smiercionosnych zaklec, a gdy tylko spróbuja wziac odwet, teleportuje sie na bezpieczna odleglosc. Posledniejsze umysly moga co prawda lekac sie takiej potegi, lecz Li-Ming dzierzy tajemne moce wszechswiata, wykazujac sie wielka pewnoscia siebie i niedoscigniona maestria.</opis>
+        </postac>
+        <postac>
+            <nazwa>Zszywaniec</nazwa>
+            <miniatura>miniatury/Stitches.png</miniatura>
+            <typ>Wojownik</typ>
+            <uniwersum>Warcraft</uniwersum>
+            <zwyciestwa>48.2</zwyciestwa>
+            <popularnosc>19.3</popularnosc>
+			<opis>Strzez sie, kiedy przemierzasz cieniste sciezki Kniei Zmierzchu... Od czasu, gdy balsamista Abercrombie najechal na Mroczne Wlosci ze swym plugastwem, Zszywaniec przemierza bezdroza w poszukiwaniu kawalków ciala niskopoziomowych graczy Przymierza.</opis>
+        </postac>
+        <postac>
+            <nazwa>Czo</nazwa>
+            <miniatura>miniatury/Cho.png</miniatura>
+            <typ>Wojownik</typ>
+            <uniwersum>Warcraft</uniwersum>
+            <zwyciestwa>48.2</zwyciestwa>
+            <popularnosc>1.7</popularnosc>
+			<opis>Cialo Czo gala zamieszkuja dwie osobowosci: Gal, przebiegly mistrz czarnej magii i zakazanych inkantacji, oraz Czo, który rozwiazuje problemy walac w nie ile sil. Kiedy dzialaja razem, potezne ataki Czo oraz niszczace zaklecia Gala wzajemnie sie wzmacniaja, a wrogowie Czo gala gorzko zaluja dnia, w którym weszli w droge temu ogrowi. Dzieki miesniom Czo i mrocznym mocom Gala, ta dwójka jest gotowa przetoczyc sie przez Nexus niczym nawalnica... o ile tylko ustala razem jakis plan.</opis>
+        </postac>
+        <postac>
+            <nazwa>Gal</nazwa>
+            <miniatura>miniatury/Gall.png</miniatura>
+            <typ>Zabojca</typ>
+            <uniwersum>Warcraft</uniwersum>
+            <zwyciestwa>48.2</zwyciestwa>
+            <popularnosc>1.7</popularnosc>
+			<opis>Cialo Czo gala zamieszkuja dwie osobowosci: Gal, przebiegly mistrz czarnej magii i zakazanych inkantacji, oraz Czo, który rozwiazuje problemy walac w nie ile sil. Kiedy dzialaja razem, potezne ataki Czo oraz niszczace zaklecia Gala wzajemnie sie wzmacniaja, a wrogowie Czo gala gorzko zaluja dnia, w którym weszli w droge temu ogrowi. Dzieki miesniom Czo i mrocznym mocom Gala, ta dwójka jest gotowa przetoczyc sie przez Nexus niczym nawalnica... o ile tylko ustala razem jakis plan.</opis>
+        </postac>
+        <postac>
+            <nazwa>Malfurion</nazwa>
+            <miniatura>miniatury/Malfurion.png</miniatura>
+            <typ>Pomocnik</typ>
+            <uniwersum>Warcraft</uniwersum>
+            <zwyciestwa>48</zwyciestwa>
+            <popularnosc>26.2</popularnosc>
+			<opis>Malfurion Burzogniewny jest najwiekszym druidem w calym Azeroth oraz ulubionym uczniem pólboga Cenariusa. Laczac sie z silami natury i Cenariusem w Szmaragdowym Snie, Malfurion chroni dzikie ostepy przed wplywem demonów oraz dzikusami z Hordy. Jego jedyna slabosc to sklonnosc do ucinania sobie dlugich (powiedzmy tysiacletnich) drzemek.</opis>
+        </postac>
+        <postac>
+            <nazwa>Tassadar</nazwa>
+            <miniatura>miniatury/Tassadar.png</miniatura>
+            <typ>Pomocnik</typ>
+            <uniwersum>Starcraft</uniwersum>
+            <zwyciestwa>48</zwyciestwa>
+            <popularnosc>17.4</popularnosc>
+			<opis>Tassadar, najwiekszy sposród egzekutorów, sprzeciwil sie woli konklawe i sprzymierzyl z mrocznymi templariuszami. Walczyl do ostatka, by ocalic Aiur przed zergami. Skupiajac w sobie moce Khali oraz Otchlani, zdolal zniszczyc Nadswiadomosc - kosztem wlasnego zycia. Wojownicy rasy protosów po dzis dzien wzywaja jego imie w boju: "En Taro, Tassadar!".</opis>
+        </postac>
+        <postac>
+            <nazwa>Dehaka</nazwa>
+            <miniatura>miniatury/Dehaka.png</miniatura>
+            <typ>Wojownik</typ>
+            <uniwersum>Starcraft</uniwersum>
+            <zwyciestwa>46.7</zwyciestwa>
+            <popularnosc>8.1</popularnosc>
+			<opis>Na Zerusie przywódca stada zergów Dehaka stale sie rozwijal, aby stac sie drapieznikiem doskonalym. Zadza zabijania najsilniejszych po to, by pochlonac ich esencje, przywiodla go az do Nexusa. Dehaka wszedzie wytropi swoje ofiary i nikt na calym polu bitwy nie moze czuc sie bezpiecznie. Jego niewyobrazalne zdolnosci regeneracji pozwalaja mu nie zwazac na najdotkliwsze nawet obrazenia, a dzieki niezwyklej mobilnosci moze blyskawicznie wkraczac do akcji i sie wycofywac. Jednym slowem: Dehaka wykorzystuje potencjal pierwotnych zergów z zabójcza skutecznoscia.</opis>
+        </postac>
+        <postac>
+            <nazwa>Zeratul</nazwa>
+            <miniatura>miniatury/Zeratul.png</miniatura>
+            <typ>Zabojca</typ>
+            <uniwersum>Starcraft</uniwersum>
+            <zwyciestwa>46.6</zwyciestwa>
+            <popularnosc>16.6</popularnosc>
+			<opis>Enigmatyczny mroczny templariusz Zeratul to sluga xel naga. Choc zrecznie wlada kwantowa energia Pustki, to szacunek przywódców w sektorze Koprulu zyskal dzieki swej madrosci - mimo sklonnosci do teatralnego pojawiania sie i znikania.</opis>
+        </postac>
+        <postac>
+            <nazwa>Tyrael</nazwa>
+            <miniatura>miniatury/Tyrael.png</miniatura>
+            <typ>Wojownik</typ>
+            <uniwersum>Diablo</uniwersum>
+            <zwyciestwa>46.6</zwyciestwa>
+            <popularnosc>5.4</popularnosc>
+			<opis>Najwiekszym obronca ludzkosci wsród aniolow jest Tyrael - Archaniol Sprawiedliwosci. Dzierzac swoj wierny miecz Eldruin, walczy z zastepami Plonacych Piekiel. Gdyby nie jego wstawiennictwo, Najwyzsi Zli juz dawno zniewoliliby Sanktuarium, a wraz z nim cala ludzkosc.</opis>
+        </postac>
+        <postac>
+            <nazwa>Abatur</nazwa>
+            <miniatura>miniatury/Abathur.png</miniatura>
+            <typ>Specjalista</typ>
+            <uniwersum>Starcraft</uniwersum>
+            <zwyciestwa>46.5</zwyciestwa>
+            <popularnosc>9.3</popularnosc>
+			<opis>Abatur - Mistrz Ewolucji Roju Kerrigan - pracuje niestrudzenie, aby ulepszyc zergów w drodze genetycznych modyfikacji. Nienawisc, jaka zywi wobec chaosu i niedoskonalosci, niemal dorównuje pogardzie, w jakiej ma zaimki.</opis>
+        </postac>
+        <postac>
+            <nazwa>Leoryk</nazwa>
+            <miniatura>miniatury/Leoric.png</miniatura>
+            <typ>Wojownik</typ>
+            <uniwersum>Diablo</uniwersum>
+            <zwyciestwa>46.1</zwyciestwa>
+            <popularnosc>5</popularnosc>
+			<opis>Obled. Zdrada. Smierc. Oto spuscizna Leoryka - Czarnego Króla Khanduras. Monarcha, doprowadzony do szalenstwa przez mroczna esencje Diablo, sprowadzil na swoje królestwo niewypowiedziane cierpienia. Nawet po smierci nie zaznal on spokoju i powrócil jako Król Szkieletów. Leoryk smieje sie smierci prosto w twarz, wymachujac dziko swoja olbrzymia bulawa. Kiedy zostanie pokonany, jego upiór wysysa sily witalne z zyjacych, aby Król Szkieletów mógl powstac i raz jeszcze siac groze i spustoszenie na polu bitwy.</opis>
+        </postac>
+        <postac>
+            <nazwa>Uther</nazwa>
+            <miniatura>miniatury/Uther.png</miniatura>
+            <typ>Pomocnik</typ>
+            <uniwersum>Warcraft</uniwersum>
+            <zwyciestwa>45.3</zwyciestwa>
+            <popularnosc>25.3</popularnosc>
+			<opis>Uther Swiatlodzierzca to pierwszy paladyn i zalozyciel Zakonu Srebrnej Dloni oraz wierny sluga Swiatlosci, który wymierza sprawiedliwosc niezawodnym mlotem. Uther jest niezlomnym obronca prawdy i niezachwianym symbolem Przymierza.</opis>
+        </postac>
+        <postac>
+            <nazwa>Muradin</nazwa>
+            <miniatura>miniatury/Muradin.png</miniatura>
+            <typ>Wojownik</typ>
+            <uniwersum>Warcraft</uniwersum>
+            <zwyciestwa>44.2</zwyciestwa>
+            <popularnosc>41.4</popularnosc>
+			<opis>Muradin niegdys byl mentorem ksiecia Arthasa, jednak nie zdolal zapobiec jego zepsuciu i przemianie w Króla Licza. Kiedy Król Magni - brat Muradina - zostal zamieniony w diament, Muradin doszedl do siebie po krótkiej amnezji i zostal przywódca klanu Miedziobrodych.</opis>
+        </postac>
+        <postac>
+            <nazwa>Chronia</nazwa>
+            <miniatura>miniatury/Chromie.png</miniatura>
+            <typ>Zabojca</typ>
+            <uniwersum>Warcraft</uniwersum>
+            <zwyciestwa>35.8</zwyciestwa>
+            <popularnosc>9.3</popularnosc>
+			<opis>Chronia na pierwszy rzut oka wydaje sie byc calkiem zwyczajna gnomka, jednak w rzeczywistosci to Chronormu - spizowa smoczyca i wladczyni czasu. Moze kontrolowac przebieg bitwy, spowalniajac przeciwników, a nawet wyrywajac ich sila z naturalnego przeplywu czasu. Dzieki manipulacji czasoprzestrzenia nie ma takiego problemu, którego Chronia nie bylaby w stanie rozwiazac... Z niewielka pomoca samej siebie z przyszlosci, oczywiscie.</opis>
+        </postac>
+        <postac>
+            <nazwa>Gazol</nazwa>
+            <miniatura>miniatury/Gazlowe.png</miniatura>
+            <typ>Specjalista</typ>
+            <uniwersum>Warcraft</uniwersum>
+            <zwyciestwa>51.5</zwyciestwa>
+            <popularnosc>10.1</popularnosc>
+			<opis>Na pierwszy rzut oka niewiele osób uznaloby lilipuciego Gazola za wojownika, ale braki we wzroscie zdecydowanie nadrabia smykalka do mechaniki. Jego najnowszy egzoszkielet to wyjatkowo skuteczna machina bojowa - kiedy zdarzy sie jej zadzialac.</opis>
+        </postac>
+    </postacie>
